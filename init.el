@@ -1,5 +1,5 @@
 					; Init File
-					; Cory Sand
+					; corsandy
 					; April, 2019
 
 ;; load emacs 24's package system. Add MELPA repository.
